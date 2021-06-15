@@ -4,6 +4,10 @@
   "private": true,
   "description": "pula-gatsby-site",
   "author": "Jim Carroll",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pulamusicMedia/pula-gatsby-site"
+  },
   "keywords": [
     "gatsby"
   ],
