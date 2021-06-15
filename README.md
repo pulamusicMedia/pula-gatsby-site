@@ -1,3 +1,14 @@
+> Jim Carroll |
+> 06/15/2021 |
+> [GitHub Profile](https://github.com/pulamusic) |
+> [pulamusicMedia](https://github.com/pulamusicMedia)
+
+---
+
+# a new Gatsby site
+
+---
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
