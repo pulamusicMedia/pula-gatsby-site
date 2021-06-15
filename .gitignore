@@ -5,6 +5,9 @@ public
 # Created by https://www.toptal.com/developers/gitignore/api/git,node,react,visualstudiocode,macos,sass
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,node,react,visualstudiocode,macos,sass
 
+#### custom ####
+_drafts/
+
 ### Git ###
 # Created by git for backups. To disable backups in Git:
 # $ git config --global mergetool.keepBackup false
@@ -27,7 +30,8 @@ public
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
